@@ -1,2 +1,1 @@
 SomeText
-Additional text to the file
