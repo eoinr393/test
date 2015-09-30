@@ -1,4 +1,3 @@
-import math
 testWord = raw_input("enter a word to check:")
 testWord.replace(" ","")
 length = len(testWord)
